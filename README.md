@@ -26,7 +26,7 @@ A GUI-based Student Record System using Python Tkinter.
 ## ➕ Add Student
 ![Add Student](screenshots/Add_student.png)
 
-## 📤 Added successfully
+## ✅ Added successfully
 ![Added](screenshots/student_added_successfully.png)
 
 ### ▶️ Run it:
