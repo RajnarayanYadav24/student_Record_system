@@ -19,16 +19,16 @@ A GUI-based Student Record System using Python Tkinter.
 pip install pandas openpyxl
 python login.py
 
-## 📷 Screenshots
+### 📷 Screenshots
 
-### 🔐 Login Screen
+## 🔐 Login Screen
 ![Login](screenshots/login_page.png)
 
-### 🧾 Main Window
+## 🧾 Main Window
 ![Main Window](screenshots/main_window.png)
 
-### ➕ Add Student
+## ➕ Add Student
 ![Add Student](screenshots/Add_student.png)
 
-### 📤 Added successfully
+## 📤 Added successfully
 ![Added](screenshots/student_added_successfully.png)
