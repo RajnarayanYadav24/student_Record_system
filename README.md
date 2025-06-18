@@ -14,10 +14,6 @@ A GUI-based Student Record System using Python Tkinter.
 - Tkinter (GUI)
 - Pandas + OpenPyXL (for Excel export)
 
-### ▶️ Run it:
-```bash
-pip install pandas openpyxl
-python login.py
 
 ### 📷 Screenshots
 
@@ -32,3 +28,8 @@ python login.py
 
 ## 📤 Added successfully
 ![Added](screenshots/student_added_successfully.png)
+
+### ▶️ Run it:
+```bash
+pip install pandas openpyxl
+python login.py
